@@ -12,3 +12,5 @@
 
 # Ignore data files that may contain sensitive or temporary data
 data/*.dat
+
+*.sh

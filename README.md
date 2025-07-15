@@ -188,6 +188,43 @@ _Replace placeholders with actual member details._
 
 ---
 
-## Contact
+## How to Add Issues
 
-For issues or inquiries, contact the project team via the University of Ghana, Department of Computer Science.
+To report bugs, request features, or suggest improvements:
+
+1. **Go to the GitHub repository** for this project.
+2. Click on the **"Issues"** tab.
+3. Click **"New Issue"** and select the appropriate template (bug, feature, etc.).
+4. Fill in the details, including steps to reproduce (if applicable), expected behavior, and screenshots if helpful.
+5. Submit the issue.  
+   _The team will review and respond as soon as possible._
+
+---
+
+## License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT):
+
+```
+MIT License
+
+Copyright (c) 2024 Atinka Meds Pharmacy
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```

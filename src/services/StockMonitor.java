@@ -2,7 +2,8 @@ package services;
 
 import java.util.ArrayList;
 import java.util.List;
-import dataStructures.MinHeap;
+
+import datastructures.MinHeap;
 import model.Drug;
 
 public class StockMonitor {

@@ -1,7 +1,8 @@
 package services;
 
 import java.util.*;
-import dataStructures.LinkedList;
+
+import datastructures.LinkedList;
 import model.Drug;
 import model.Transaction;
 import persistence.FilePersistence;
